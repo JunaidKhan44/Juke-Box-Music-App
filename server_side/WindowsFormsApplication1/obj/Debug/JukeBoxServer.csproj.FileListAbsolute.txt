@@ -1,0 +1,80 @@
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csproj.ResolveComReference.cache
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csprojResolveAssemblyReference.cache
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+F:\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\code new\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TokenModification.resources
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TokenModification.resources
+C:\Users\DELL\Desktop\changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\jukebox-2changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\jukebox-2changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\jukebox-2changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\jukebox-2changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\JukeBoxServer.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\jukebox-2changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\jukebox-2changing start database\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,156 @@
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+G:\fyp project server app\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\fyp project server app\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+G:\fyp project server app\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+G:\fyp project server app\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+G:\fyp project server app\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\fyp project server app\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+G:\fyp project\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+C:\Users\DELL\Desktop\18-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+C:\Users\DELL\Desktop\20-aug after some change server side\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+C:\Users\DELL\Desktop\24-aug server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Addsongs.resources
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.player.resources
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SongList.resources
+C:\Users\DELL\Desktop\2-sep server sude\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\2-sep server sude - Copy\WindowsFormsApplication1 - amendement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
